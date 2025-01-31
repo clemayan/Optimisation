@@ -12,7 +12,7 @@ Le résultat est d’autant plus précis que le nombre d’opérations (n) est g
 ## Technologies utilisées 🛠
 Le projet a été réalisé en Python3 et en C afin de pouvoir comparer l'implementation en fonction du langage de programmation utilisé.
 
-## Auteurs 👥
+## Auteure 👩‍💻
 Mazuet Maya
 
 ## 📜 Licence  
